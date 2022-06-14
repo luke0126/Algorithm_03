@@ -1,6 +1,8 @@
 # Algorithm_03
+## Algorithm Assignment 5
+### Open Source Project : Deep Learning
 
-## 1. Model1: 3Layers with 1 Convolution layer 
+## Model1: 3Layers with 1 Convolution layer 
 
 ### 1. Code
 ![image](https://user-images.githubusercontent.com/58414467/173520276-32558a59-b0e3-4aa4-ad16-84beecf49e19.png)
@@ -19,7 +21,7 @@
 ![image](https://user-images.githubusercontent.com/58414467/173521013-95edd1ed-54b4-4e6b-b5a1-2728ce680870.png)
 
 
-## 1. Model2: 5Layers with 2 Convolution layer 
+## Model2: 5Layers with 2 Convolution layer 
 
 ### 1. Code
 ![image](https://user-images.githubusercontent.com/58414467/173521538-2fe75fcf-141e-4ed9-8325-7850c7b7c190.png)
@@ -38,7 +40,7 @@
 ![image](https://user-images.githubusercontent.com/58414467/173522702-a4a3afb9-efa1-47ec-8439-322be3537233.png)
 
 
-## 1. Model3: 7Layers with 4 Convolution layer 
+## Model3: 7Layers with 4 Convolution layer 
 
 ### 1. Code
 ![image](https://user-images.githubusercontent.com/58414467/173523249-6d9f5c06-ae89-4f74-8ade-ebdb88513b26.png)
